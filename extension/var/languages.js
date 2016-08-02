@@ -37,5 +37,6 @@ define({
     ".scala": "language-scala",
     ".swift": "language-swift",
     ".yaml": "language-yaml",
-    ".yml": "language-yaml"
+    ".yml": "language-yaml",
+    ".ts": "language-typescript"
 });
